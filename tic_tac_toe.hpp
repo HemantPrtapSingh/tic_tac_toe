@@ -1,0 +1,4 @@
+
+int checkwin();
+void board();
+
